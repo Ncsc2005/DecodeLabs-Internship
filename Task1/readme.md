@@ -48,5 +48,6 @@ Data cleaning is a critical step in the data analytics process. This project foc
 The dataset was successfully cleaned and preprocessed using Python and Pandas. The resulting dataset is accurate, consistent, and suitable for data analytics applications.
 
 ## Author
-**N.Chinmai Sai Chandana.**
+**N.Chinmai Sai Chandana**
+
 **RGUKT-ONGOLE**
