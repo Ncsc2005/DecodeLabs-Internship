@@ -121,10 +121,9 @@ This Exploratory Data Analysis project successfully examined the cleaned dataset
 ## References
 
 1. Pandas Documentation
-2. NumPy Documentation
-3. Jupyter Notebook Documentation
-4. Microsoft Excel Documentation
-5. DecodeLabs Industrial Training Kit
+2. Jupyter Notebook Documentation
+3. Microsoft Excel Documentation
+4. DecodeLabs Industrial Training Kit
 
 
 ### Author
