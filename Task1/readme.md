@@ -40,7 +40,7 @@ Data cleaning is a critical step in the data analytics process. This project foc
 ## Project Files
 
 * `task1.ipynb` – Jupyter Notebook containing the implementation.
-* `Task1_Documentation.docx` – Detailed project documentation.
+* `Task1_Documentation.pdf` – Detailed project documentation.
 * `screenshots/` – Screenshots of outputs and results.
 
 ## Conclusion
